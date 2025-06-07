@@ -1,6 +1,6 @@
 # Accessing Data for the 2025 Howard University Data Science for Social Impact Bootcamp
 
-## Microsoft Ariband Initiative Repository
+## Microsoft Airband Initiative Repository
 This repository is a public source of data used by ISPs for AirBand Projects. Its intended use is to provide a means of sharing public data related to rural broadband projects. Partners can download the curated public data sets for their use.
 [Microsoft Airband Data](https://github.com/microsoft/AirbandData)
 
