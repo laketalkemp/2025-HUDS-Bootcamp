@@ -8,4 +8,4 @@ This repository is a public source of data used by ISPs for AirBand Projects. It
 The data for this project is for the Thesis Honors Research for Academic Data Science (THREADS) Scholar Project. Guidelines for the Honors Thesis Project can be found on the [Howard University Honors Thesis Website](https://coashonors.howard.edu/academics/honors-thesis).
 
 ## NBA Player Statistics
-@NocturneBear compiles this data and features NBA player statistics from season and postseason games between 2010 and 2024. 
+[@NocturneBear](https://github.com/NocturneBear/NBA-Data-2010-2024/tree/main) compiles this data and features NBA player statistics from season and postseason games between 2010 and 2024. 
