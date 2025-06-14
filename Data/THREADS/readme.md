@@ -1,6 +1,6 @@
 # THREADS Ghana Census Data
 This is three waves of surveys across specified years:
-* [Ghana Socioeconomic Panel Survey 2009-2010]([https://github.com/laketalkemp/2025-HUDS-Bootcamp/blob/main/Data/THREADS/readme.md#survey-id-number-gha-isser-gseps-2013-2014-v1](https://github.com/laketalkemp/2025-HUDS-Bootcamp/blob/main/Data/THREADS/readme.md#ghana-socioeconomic-panel-survey-2009-2010-wave-1))
+* [Ghana Socioeconomic Panel Survey 2009-2010](https://github.com/laketalkemp/2025-HUDS-Bootcamp/blob/main/Data/THREADS/readme.md#ghana-socioeconomic-panel-survey-2009-2010-wave-1)
 * [Ghana Socioeconomic Panel Survey 2013-2014](https://github.com/laketalkemp/2025-HUDS-Bootcamp/blob/main/Data/THREADS/readme.md#survey-id-number-gha-isser-gseps-2013-2014-v1)
 * [Ghana Socioeconomic Panel Survey 2018-2019](https://github.com/laketalkemp/2025-HUDS-Bootcamp/blob/main/Data/THREADS/readme.md#survey-id-number-gha-isser-gseps-2018-2019-v1)
 
