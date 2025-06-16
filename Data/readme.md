@@ -11,3 +11,4 @@ The data for this project is for the Thesis Honors Research for Academic Data Sc
 
 ## NBA Player Statistics
 [@NocturneBear](https://github.com/NocturneBear/NBA-Data-2010-2024/tree/main) compiles this data and features NBA player statistics from season and postseason games between 2010 and 2024. 
+*[Class Respository: NBA Player Statistics](https://github.com/laketalkemp/2025-HUDS-Bootcamp/tree/5087d9633587d7299933ba8b4120b4cb04fd996b/Data/NBA-Data)
