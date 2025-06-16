@@ -5,7 +5,7 @@ The data for this analysis is from multiple sources, including the American Comm
 The American Community Survey (ACS) ***S2801: Types of Computers and Internet Subscriptions*** table provides data on computer and internet access within households. Specifically, it details the types of computers and internet subscriptions present in households, according to Census Bureau data. This includes information on whether households have desktop or laptop computers, smartphones, tablets, or other types of computers, as well as details on their internet subscriptions, such as dial-up, broadband (including cable, fiber optic, or DSL), or cellular data plans. This data is segmented to the Census Tract level for all of the United States. Data is available from 2017 to 2023.
 
 **Citation**<br>
-*U.S. Census Bureau. (n.d.). Types of Computers and Internet Subscriptions. American Community Survey, ACS 5-Year Estimates Subject Tables, Table S2801. Retrieved June 16, 2025, from https://data.census.gov/table/ACSST5Y2023.S2801?q=broadband+Internet&g=010XX00US$1400000.
+* U.S. Census Bureau. (n.d.). Types of Computers and Internet Subscriptions. American Community Survey, ACS 5-Year Estimates Subject Tables, Table S2801. Retrieved June 16, 2025, from https://data.census.gov/table/ACSST5Y2023.S2801?q=broadband+Internet&g=010XX00US$1400000.
 
 Here's a more detailed breakdown:
 **Types of Computers:**
@@ -27,3 +27,9 @@ Each file contains records of the locations for which any service provider repor
 The files are available for download in Comma Separated Value (CSV) format.
 Files are available by state, technology, and data as of the specified date in a zip archive with the following file naming structure:
 * bdc_{State FIPS}_{Technology}_fixed_broadband_{Data As-of Date}_{Revision Date}.zip
+
+**Citation**<br>
+* While not required, when using in your own work content, data, documentation, code, and related materials from fcc.gov or broadbandmap.fcc.gov, we ask that you provide proper attribution of the data. 
+
+* Source data: FCC Broadband Funding Map
+* Map layer based on FCC BFM
