@@ -2,7 +2,8 @@
 
 ## Microsoft Airband Initiative Repository
 This repository is a public source of data used by ISPs for AirBand Projects. Its intended use is to provide a means of sharing public data related to rural broadband projects. Partners can download the curated public data sets for their use.
-[Microsoft Airband Data](https://github.com/microsoft/AirbandData)
+* [Microsoft Airband Data](https://github.com/microsoft/AirbandData)
+* [Class Repository](https://github.com/laketalkemp/2025-HUDS-Bootcamp/tree/54530f461ad0a20fd1090c2fe9745dbed6ed63fe/Data/Microsoft%20Airband)
 
 ## Ghana Public Census Data
 The data for this project is for the Thesis Honors Research for Academic Data Science (THREADS) Scholar Project. Guidelines for the Honors Thesis Project can be found on the [Howard University Honors Thesis Website](https://coashonors.howard.edu/academics/honors-thesis).
