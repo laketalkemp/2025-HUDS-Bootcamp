@@ -4,6 +4,9 @@ The data for this analysis is from multiple sources, including the American Comm
 ## American Community Survey
 The American Community Survey (ACS) ***S2801: Types of Computers and Internet Subscriptions*** table provides data on computer and internet access within households. Specifically, it details the types of computers and internet subscriptions present in households, according to Census Bureau data. This includes information on whether households have desktop or laptop computers, smartphones, tablets, or other types of computers, as well as details on their internet subscriptions, such as dial-up, broadband (including cable, fiber optic, or DSL), or cellular data plans. This data is segmented to the Census Tract level for all of the United States. Data is available from 2017 to 2023.
 
+**Citation**<br>
+*U.S. Census Bureau. (n.d.). Types of Computers and Internet Subscriptions. American Community Survey, ACS 5-Year Estimates Subject Tables, Table S2801. Retrieved June 16, 2025, from https://data.census.gov/table/ACSST5Y2023.S2801?q=broadband+Internet&g=010XX00US$1400000.
+
 Here's a more detailed breakdown:
 **Types of Computers:**
 * Desktop or laptop: This includes traditional computers, such as desktops and laptops.
