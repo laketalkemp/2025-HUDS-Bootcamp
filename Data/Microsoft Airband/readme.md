@@ -30,6 +30,5 @@ Files are available by state, technology, and data as of the specified date in a
 
 **Citation**<br>
 * While not required, when using in your own work content, data, documentation, code, and related materials from fcc.gov or broadbandmap.fcc.gov, we ask that you provide proper attribution of the data. 
-
-* Source data: FCC Broadband Funding Map
-* Map layer based on FCC BFM
+  * Source data: FCC Broadband Funding Map
+  * Map layer based on FCC BFM
